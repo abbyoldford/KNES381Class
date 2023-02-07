@@ -15,4 +15,3 @@
 [Click here to view the route to Mount Temple](/image/image.md)
 
   
- 
