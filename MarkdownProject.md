@@ -6,4 +6,3 @@
 | :---------- | ----------- |
 |             | [Click here to see the route in my readme.md file](https://github.com/abbyoldford/KNES381Class#readme)  
 
-
