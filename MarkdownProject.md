@@ -12,7 +12,7 @@
 | :---------- | ----------- |
 |             | [Click here to see my readme.md file](https://github.com/abbyoldford/KNES381Class/blob/d6205cea0cfbc2dbdec00d71ad74c7a3c7c7056e/readme.md)  
 
-[Click here to view the route to Mount Temple](img/Screen Shot 2023-02-07 at 11.26.06 AM.png)
+[Click here to view the route to Mount Temple](/image/image.md)
 
   
  
